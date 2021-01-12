@@ -1,0 +1,25 @@
+/* XPM */
+static char * Application_Notification[]={
+"16 16 4 1",
+/* colors */
+"   c  #562c05",
+".  c  #ffffff",
+"X  c  #90713a",
+"o  c  None",
+/* pixels */
+"oooooooXoooooooo",
+"oooooooXXooooooo",
+"ooooooXXXooooooo",
+"ooooooXXXXoooooo",
+"oooooXXXXXoooooo",
+"oooooX....Xooooo",
+"oooo .XXX..ooooo",
+"ooooX XXXX..oooo",
+"oooXXXXXXXX.oooo",
+"oooXXXXXXXX.Xooo",
+"oo X.XXXXXX.Xooo",
+"ooXX.XXXXXX XXoo",
+"o XX..XXX XX Xoo",
+"o XXX..XXXXXXXXo",
+"XXXXX ....X XXXo",
+"XX XXXX XXX XXX "}

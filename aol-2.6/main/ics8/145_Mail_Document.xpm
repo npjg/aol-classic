@@ -1,0 +1,31 @@
+/* XPM */
+static char * Mail_Document[]={
+"16 16 10 1",
+/* colors */
+"   c  #777777",
+".  c  #444444",
+"X  c  #000000",
+"o  c  #ffffff",
+"O  c  #eeeeee",
+"+  c  #dddddd",
+"@  c  #bbbbbb",
+"#  c  #33ff99",
+"$  c  #888888",
+"%  c  None",
+/* pixels */
+"%.........%%%%%%",
+"%.OOOOOOO..%%%%%",
+"%.OO+++++.o.%%%%",
+"%.O++++++....%%%",
+"%.O+++  +++@.%%%",
+"%.O+++  +++@.%%%",
+"%.OXXXXXXXXXXXXX",
+"%.OXo.$ooooo$$@X",
+"%.OXoXXooooo.#@X",
+"%.OXoooooooo..@X",
+"%.OXoooX$XXooo@X",
+"%.OXooo$XX$ooo@X",
+"%. X@@@...@@@@@X",
+"%.OXXXXXXXXXXXXX",
+"%.O@$$$$$$$$.%%%",
+"%............%%%"}

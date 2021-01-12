@@ -1,0 +1,24 @@
+/* XPM */
+static char * bitmap540[]={
+"16 16 3 1",
+/* colors */
+"   c  #000000",
+".  c  #ffffff",
+"X  c  None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXXXXX  XXXXXXXX",
+"XXXXXX XXXXXXXXX",
+"XXX   .   XXXXXX",
+"XX         XXXXX",
+"XX       XXXXXXX",
+"XX       XXXXXXX",
+"XX         XXXXX",
+"XX         XXXXX",
+"XXX       XXXXXX",
+"XXXX  X  XXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX"}

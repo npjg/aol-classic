@@ -1,0 +1,26 @@
+/* XPM */
+static char * America_Online[]={
+"16 16 5 1",
+/* colors */
+"   c  #996600",
+".  c  #ffffff",
+"X  c  #cc9900",
+"o  c  #663300",
+"O  c  None",
+/* pixels */
+"OOOOOOOXOOOOOOOO",
+"OOOOOOOXXOOOOOOO",
+"OOOOOOXX OOOOOOO",
+"OOOOOO  XXOOOOOO",
+"OOOOO  X  OOOOOO",
+"OOOOO ....XOOOOO",
+"OOOO .   ..OOOOO",
+"OOOO X    ..OOOO",
+"OOO     o  .OOOO",
+"OOO  oo oo . OOO",
+"OOoo. oooo .oOOO",
+"OOoo.  o o o  OO",
+"Oooo..oooo oooOO",
+"Oo oo..oooo oooO",
+" ooooo.... ooooO",
+"oooooooooooooooo"}

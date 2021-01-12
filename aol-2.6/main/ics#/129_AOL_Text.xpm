@@ -1,0 +1,24 @@
+/* XPM */
+static char * AOL_Text[]={
+"16 16 3 1",
+/* colors */
+"   c  #000000",
+".  c  #ffffff",
+"X  c  None",
+/* pixels */
+"XX         XXXXX",
+"XX .......  XXXX",
+"XX .          XX",
+"XX . ........ XX",
+"XX . ..    .. XX",
+"XX . ........ XX",
+"XX . .      . XX",
+"XX . ........ XX",
+"XX . .      . XX",
+"XX . ........ XX",
+"XX . .      . XX",
+"XX . ........ XX",
+"XX   .      . XX",
+"XX . ........ XX",
+"XX .          XX",
+"XX            XX"}

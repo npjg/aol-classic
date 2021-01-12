@@ -1,0 +1,26 @@
+/* XPM */
+static char * icon539[]={
+"16 16 5 1",
+/* colors */
+"   c  #000000",
+".  c  #6bc2a2",
+"X  c  #ffffff",
+"o  c  #bbbbbb",
+"O  c  None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOO.OO",
+"OOOOOOOOOOOO..OO",
+"O       OOO..OOO",
+" ooooooo O..OOOO",
+" ooooooo ..OOOOO",
+" o.ooooo..OOOOOO",
+" o..ooo..OOOOOOO",
+" oo..o.. OOOOOOO",
+" ooo...o OOOOOOO",
+" oooo.oo OOOOOOO",
+"O       OOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO"}

@@ -1,0 +1,26 @@
+/* XPM */
+static char * icon545[]={
+"16 16 5 1",
+/* colors */
+"   c  #777777",
+".  c  #444444",
+"X  c  #ffffff",
+"o  c  #aaaaaa",
+"O  c  None",
+/* pixels */
+"OOOOOOOOOOOOOOOO",
+"OOOO......OOOOOO",
+"... oooooo ...OO",
+"oooo......ooooOO",
+"... oooooo ...OO",
+"Oooo......oooOOO",
+"O.. oooooo ..OOO",
+"OOoo .... ooOOOO",
+"O...oooooo...OOO",
+"OOoo .... ooOOOO",
+"OO..oooooo..OOOO",
+"OOOO .... OOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO",
+"OOOOOOOOOOOOOOOO"}

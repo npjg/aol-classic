@@ -1,0 +1,24 @@
+/* XPM */
+static char * bitmap532[]={
+"16 16 3 1",
+/* colors */
+"   c  #000000",
+".  c  #ffffff",
+"X  c  None",
+/* pixels */
+"XXXXXXXXXXXXXXXX",
+"XXX        XXXXX",
+"XX . .... . X XX",
+"XX . .... .   XX",
+"XX . .... .  XXX",
+"XX .        XXXX",
+"XX ......   XXXX",
+"XX .....  . XXXX",
+"XX  ...  .. XXXX",
+"XX   .  ... XXXX",
+"XX .   .... XXXX",
+"XXX        XXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX",
+"XXXXXXXXXXXXXXXX"}
